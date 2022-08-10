@@ -1,0 +1,19 @@
+
+body {
+	background-image: url('https://source.unsplash.com/MrWOCGKFVDg');
+	background-size: cover;
+	background-position: center;
+	/*background-color: #2e2e2e;*/
+	/*background-blend-mode: screen;*/
+	font-family: 'Roboto', sans-serif;
+}
+
+html {
+	height: 100%; /*So the background image is full height */
+	width: 100%;
+}
+
+
+.btn-rounded {
+	border-radius: 300px;
+}
